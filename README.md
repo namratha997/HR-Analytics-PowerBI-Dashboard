@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard provides a comprehensive view of employee attendance data, offering insights into the overall presence, work from home (WFH) trends, and sick leave (SL) statistics. The dashboard visualizes data across various dimensions including individual employee performance, daily trends, and monthly summaries.
 
+![Dashboard_Image](Dasboard_Image.png)
+
 ## Visualizations
 **Key Metrics**
 1. Present %: The percentage of days employees are present at work.
