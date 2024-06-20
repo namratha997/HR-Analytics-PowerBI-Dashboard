@@ -32,12 +32,12 @@ This Power BI dashboard provides a comprehensive view of employee attendance dat
 
 ### Present % Calculation:
 
-```DAX Present % = DIVIDE([Present Days], 'Measure Table'[Total Working Days], 0) * 100 ```
+``` Present % = DIVIDE([Present Days], 'Measure Table'[Total Working Days], 0) * 100 ```
 
 ### WFH % Calculation:
 
-```DAX WFH % = DIVIDE([WFH Days], 'Measure Table'[Total Working Days], 0) * 100 ```
+``` WFH % = DIVIDE([WFH Days], 'Measure Table'[Total Working Days], 0) * 100 ```
 
 ### SL % Calculation:
 
-```DAXSL % = DIVIDE([SL Days], 'Measure Table'[Total Working Days], 0) * 100```
+```SL % = DIVIDE([SL Days], 'Measure Table'[Total Working Days], 0) * 100```
